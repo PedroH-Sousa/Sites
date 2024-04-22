@@ -8,3 +8,5 @@
 <a href="https://pedroh-sousa.github.io/alura/"> Página Alura
 
 <a href="https://pedroh-sousa.github.io/alura-plus/"> Página Alura - Plus
+
+<a href="https://pedroh-sousa.github.io/alurabooks/"> Página Alura - Books (Swiper.JS)
