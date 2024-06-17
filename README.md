@@ -10,3 +10,5 @@
 <a href="https://pedroh-sousa.github.io/alura-plus/"> Página Alura - Plus
 
 <a href="https://pedroh-sousa.github.io/alurabooks/"> Página Alura - Books (Swiper.JS)
+
+<a href="https://jogo-numero-secreto-one-flame.vercel.app/"> Jogo Número Secreto (reconhecimento de voz)
